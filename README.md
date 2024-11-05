@@ -24,7 +24,7 @@
 - 📫 How to reach me **salmanazhar.official@gmail.com**
 
 - 📄 Know about my experiences **Backend Development:** Node.js (Express.js), TypeScript
--  **Frameworks:** Express.js, NestJS
+- **Frameworks:** Express.js, NestJS
 - **Databases:** MongoDB, PostgreSQL, MySQL
 - **Blockchain:** Solidity (learning)
 - **Cloud Platforms:** AWS
