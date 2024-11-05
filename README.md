@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/salmanaz124" target="blank"><img src="https://img.shields.io/twitter/follow/salmanaz124?logo=twitter&style=for-the-badge" alt="salmanaz124" /></a> </p>
 
-- 🔭 I’m currently working on **WickedNBad**
+- 🔭 I’m currently working on **Leagion Network**
 
-- 🌱 I’m currently learning **Caching-serverSide,redis and solidity**
+- 🌱 I’m currently learning **NestJS and solidity**
 
 - 👯 I’m looking to collaborate on **Nodejs Projects**
 
@@ -23,9 +23,24 @@
 
 - 📫 How to reach me **salmanazhar.official@gmail.com**
 
-- 📄 Know about my experiences [not provided yet...](not provided yet...)
+- 📄 Know about my experiences **Backend Development:** Node.js (Express.js), TypeScript
+-  **Frameworks:** Express.js, NestJS
+- **Databases:** MongoDB, PostgreSQL, MySQL
+- **Blockchain:** Solidity (learning)
+- **Cloud Platforms:** AWS
+- **Tools:** Git, Docker, npm, yarn
+- **Testing:** Postman, Swagger
+- **RESTful APIs
+- **GraphQL APIs
 
-- ⚡ Fun fact **I m callback hell survivor**
+- **Additional Skills:**
+- **API Testing:** Postman
+- **API Documentation:** Swagger
+- **Software Design Patterns
+- **Testing Methodologies
+- **Continuous Integration and Delivery
+
+- ⚡ Fun fact **I'M callback hell survivor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
